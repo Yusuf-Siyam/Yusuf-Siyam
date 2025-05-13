@@ -14,7 +14,7 @@ I’m on a mission to build, break, and rebuild — because that’s how innovat
 ### 🛠️ Notable Skills:
 - **Programming Languages:** Python 🐍 | JavaScript ⚡ | C++ 🛠️
 - **Frameworks:** React ⚛️ | Node.js 🌿 | Flask 🌶️
-- **Tools I Love:** Git, Docker, Postman
+- **Tools I Love:** Git, Github, Docker
 - **Databases:** MySQL 📊 | MongoDB 🌱
 
 ---
@@ -46,10 +46,11 @@ Collaboration, contribution, and continuous learning are my driving forces.
 
 ## 🚀 Let’s Connect!
 
-- 🌐 [Portfolio Website](#)
-- 💼 [LinkedIn](https://www.linkedin.com/in/Yusuf-Siyam)
-- 🐦 [Twitter](https://twitter.com/YusufSiyam)
-- 📫 Email me at: `yusuf.siyam@example.com`
+- 🌐 [Portfolio Website](https://yusuf-siyam.github.io/Assignment1-Html/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-yusuf-siyam-329839306/)
+- 🐦 [Facebook](https://www.facebook.com/md.yusuf.siyam)
+- 📫 Email me at: `mdsiyam1011@gmail.com`
+- 📫 Email me at: `msiyam223545@bscse.uiu.ac.bd`
 
 ---
 
